@@ -1,6 +1,6 @@
 # front-end-growing
 前端进阶指南
-[前端开发面试题](https://github.com/jiehwa/My-blog/tree/master/Front-end-Developer-Questions)
+[前端开发面试题](https://github.com/jiehwa/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
 ## 初级
 ### 1.掌握基础的HTML语法，能分清各个标签的作用和使用场景
 要求：
