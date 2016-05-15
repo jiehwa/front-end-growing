@@ -13,7 +13,7 @@
 ##推荐学习流程：
 1.熟悉html+css基础知识，[HTML+CSS基础课程](http://www.imooc.com/learn/9),学会相关布局看[网页布局基础](http://www.imooc.com/learn/95)  
 2.熟悉css3和html5,[十天精通css3](http://www.imooc.com/learn/33),对css3特性大概了解，不懂的时候再去翻文档,[CSS 参考手册](http://w3school.com.cn/css3/index.asp)
-3.了解js,知道js能改变html。从而实现一些效果，看视频[JavaScript入门篇](http://www.imooc.com/learn/36)，开始了解和使用jQuery这个可以极大方便我们操作html的js库，这时候就可以看视频[jQuery基础修炼圣典—样式篇](http://www.imooc.com/view/418),[jQuery基础修炼圣典—DOM篇](http://www.imooc.com/view/530),[jQuery基础修炼圣典—事件篇](http://www.imooc.com/view/429).对某个功能不知道用什么jQuery方法的时候，翻翻这个[文档](http://w3school.com.cn/jquery/index.asp).
+3.了解js,知道js能改变html。从而实现一些效果，看视频[JavaScript入门篇](http://www.imooc.com/learn/36)，开始了解和使用jQuery这个可以极大方便我们操作html的js库，这时候就可以看视频[jQuery基础修炼圣典—样式篇](http://www.imooc.com/view/418),[jQuery基础修炼圣典—DOM篇](http://www.imooc.com/view/530),[jQuery基础修炼圣典—事件篇](http://www.imooc.com/view/429).对某个功能不知道用什么jQuery方法的时候，翻翻这个[文档](http://w3school.com.cn/jquery/index.asp),或者是这个[官网的中文版](http://www.jquery123.com/).
 
 4.当你掌握了上面的三点的时候你可以做出绝大多数网页了，这个时候你需要再加强对JavaScript的熟悉程度，这时候再看那本很厚的书JavaScript高级编程。再看那些高级视频。
 

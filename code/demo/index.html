@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<!-- 上面的是表示用“utf-8编码，必须要写这样页面才不会乱码” -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<!-- 上面这代码表示文字不会被放大缩小，这个对于在手机端是必须的，如果少了这段，网页的内容就会在手机里被缩放 initial-scale=1表示1倍放大缩小-->
+
+	<title>这里是标题</title>
+
+	<link rel="stylesheet" href="./index.css">
+	<!-- 注意上面的路径, ./表示同级目录下，是相对路径。当然可以同级的话省略直接引用 -->
+	<link rel="stylesheet" href="./css/main.css">
+
+	<link href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.css" rel="stylesheet">
+	<!-- 当然还可以引入其他地方的css -->
+
+</head>
+<body>
+	<!-- 快速从一个空白文档生成一个html 
+	1.new file 
+	2.在新建的空白文档里面写上xxx.html
+	3.control+s保存，这时候你可以不用改会默认为你写的名字
+	4.先保存为html格式文件后，空白文档直接写 html:5 然后按一下tab键 
+	 -->
+
+	<!-- 这是html注释，注意和css中的注释不一样哦，但是快捷键是一样的，都是control+ / -->
+	<div id="id1">这个是最简单的带id的元素</div>
+	<!-- 上面的带id的div元素的快捷键写法：写 div#id1 然后按下tab键 -->
+
+	<div id="class1">这个是最简单的带一个class的元素</div>
+	<!-- 上面的带class的div元素的快捷键写法：写 div.class1 然后按下tab键 -->
+
+	<div id="class1 class2 class3">这个是带多个class的元素，中间要用空格</div>
+	<!-- 上面的带多个class的div元素的快捷键写法：写 div.class1.class2.class3 然后按下tab键 -->
+
+	<div class="father">
+		<div class="child1">child1</div>
+		<p class="child2">child2</p>
+	</div>
+	
+	<!-- 上面输入带元素嵌套的多个元素写法：div.father>div.child1+p.child2 按tab,父子元素之间用尖括号，兄弟之间用加号 -->
+	
+	<!-- 引入其他地方的js,比如jQuery -->
+	<script src="http://cdn.bootcss.com/jquery/2.2.2/jquery.js"></script>
+
+	<script type="javascript/text" src="./index/index.js">
+	// 这里写JavaScript代码，注意这是 js的注释写法
+	//js一般写在body结束标签的前面，在所有html 其他元素的后面，是因为js操作html dom需要所有的东西都加载完才能开始
+	</script>
+</body>
+</html>
