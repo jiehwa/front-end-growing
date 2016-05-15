@@ -2,7 +2,24 @@
 前端进阶指南
 [前端开发面试题](https://github.com/jiehwa/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)  
 这里的只是一个提纲，很多细节的东西会提供很多链接，需要自己去看去思考。前端尽量不要去买书，更新太快了。一般看文档就行，或者网上搜索。
+学习前的准备工作：  
+
+1.学习使用github，[视频在这里](http://www.imooc.com/learn/390) 。安装使用可以参考这个[博客](http://www.cnblogs.com/imhaiyang/p/3983552.html),要求会建立自己的项目，每次改了代码推送到github保存。
+
+2.学习使用webstorm，或者Sublime text（[学习视频](http://www.imooc.com/learn/40)）,或者网上搜相关操作技巧。
+
+3.经常使用google搜索或者查询[火狐浏览器web开发者文档](https://developer.mozilla.org/zh-CN/)，需要系统学习进[慕课网](http://www.imooc.com/course/list?c=fe&is_easy=1)选前端初级课程。
+
+##推荐学习流程：
+1.熟悉html+css基础知识，[HTML+CSS基础课程](http://www.imooc.com/learn/9),学会相关布局看[网页布局基础](http://www.imooc.com/learn/95)  
+2.熟悉css3和html5,[十天精通css3](http://www.imooc.com/learn/33),对css3特性大概了解，不懂的时候再去翻文档,[CSS 参考手册](http://w3school.com.cn/css3/index.asp)
+3.了解js,知道js能改变html。从而实现一些效果，看视频[JavaScript入门篇](http://www.imooc.com/learn/36)，开始了解和使用jQuery这个可以极大方便我们操作html的js库，这时候就可以看视频[jQuery基础修炼圣典—样式篇](http://www.imooc.com/view/418),[jQuery基础修炼圣典—DOM篇](http://www.imooc.com/view/530),[jQuery基础修炼圣典—事件篇](http://www.imooc.com/view/429).对某个功能不知道用什么jQuery方法的时候，翻翻这个[文档](http://w3school.com.cn/jquery/index.asp).
+
+4.当你掌握了上面的三点的时候你可以做出绝大多数网页了，这个时候你需要再加强对JavaScript的熟悉程度，这时候再看那本很厚的书JavaScript高级编程。再看那些高级视频。
+
+*表示重要程度
 ## 初级
+
 ### 1.掌握基础的HTML语法，能分清各个标签的作用和使用场景
 学习方法：这部分在日常开发中会自然积累，无需死记硬背。熟悉这些标签是渐进的一个过程，熟悉了之后再写代码时候就会快点。初学如果不熟都可以查文档，记住，文档是最好的老师。推荐 [w3cshcool](http://www.w3school.com.cn/)或者[火狐浏览器web开发者文档](https://developer.mozilla.org/zh-CN/).或者使用Google（是在不行可以用百度）搜索“HTML {这里的关键词为你要查的html元素}”
 要求：
@@ -141,7 +158,9 @@ html表单类标签（form标签）是用来给用户交互的，比如：输入
 ### 2.理解css盒子模型，学会常见布局
 #### 2.1能描述出来盒子模型
 #### 2.2利用`box-sizing`来改变浏览器的计算盒子模型的规则
-#### 2.3能够利用盒子模型构造出常见网页布局
+#### 2.3能够利用盒子模型构造出常见网页布局 ***
+
+
 
 [css参考手册](http://css.doyoe.com/)
 
